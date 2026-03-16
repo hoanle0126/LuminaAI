@@ -1,0 +1,33 @@
+{
+  "common": {
+    "appName": "LuminaAI",
+    "loading": "Đang tải...",
+    "error": "Đã xảy ra lỗi",
+    "retry": "Thử lại",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa",
+    "create": "Tạo mới",
+    "search": "Tìm kiếm..."
+  },
+  "nav": {
+    "dashboard": "Bảng điều khiển",
+    "tasks": "Công việc",
+    "projects": "Dự án",
+    "team": "Nhóm",
+    "favorites": "Yêu thích",
+    "automations": "Tự động hóa",
+    "analytics": "Phân tích",
+    "calendar": "Lịch",
+    "chat": "Trò chuyện",
+    "settings": "Cài đặt"
+  },
+  "dashboard": {
+    "greeting": "Xin chào, {name}",
+    "totalTasks": "Tổng công việc",
+    "completed": "Hoàn thành",
+    "inProgress": "Đang thực hiện",
+    "overdue": "Quá hạn"
+  }
+}
